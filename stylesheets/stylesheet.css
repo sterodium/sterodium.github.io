@@ -165,6 +165,14 @@ a.button span {
   margin-right: 0;
 }
 
+.sterodium-logo {
+  float: left;
+  max-height: 100px;
+  margin-right: 16px;
+  border-radius: 10px;
+  max-width: 100px;
+}
+
 code, pre {
   margin-bottom: 30px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
